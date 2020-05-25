@@ -1,0 +1,10 @@
+Test/
+backup/
+test*
+Assignment 3/
+*.zip
+Assignment 4/sentiment analysis.py
+Assignment 1/__MACOSX/
+.idea
+__pycache__/
+*.pdf
